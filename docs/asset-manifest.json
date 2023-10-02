@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aeabb815.css",
-    "main.js": "/static/js/main.54cfb94b.js",
+    "main.js": "/static/js/main.c82ccb59.js",
     "static/js/787.4e78dec8.chunk.js": "/static/js/787.4e78dec8.chunk.js",
     "static/media/Baccarat_killer.apk": "/static/media/Baccarat_killer.38116b8bc8c893cc53ab.apk",
     "static/media/product-img.jpg": "/static/media/product-img.03abd73e239edc74cf4f.jpg",
@@ -10,11 +10,11 @@
     "static/media/slide002.webp": "/static/media/slide002.aa7a4516dc97f9f856dc.webp",
     "index.html": "/index.html",
     "main.aeabb815.css.map": "/static/css/main.aeabb815.css.map",
-    "main.54cfb94b.js.map": "/static/js/main.54cfb94b.js.map",
+    "main.c82ccb59.js.map": "/static/js/main.c82ccb59.js.map",
     "787.4e78dec8.chunk.js.map": "/static/js/787.4e78dec8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeabb815.css",
-    "static/js/main.54cfb94b.js"
+    "static/js/main.c82ccb59.js"
   ]
 }
