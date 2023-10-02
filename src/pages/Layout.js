@@ -17,19 +17,19 @@ const Layout = () => {
         <Container>
           <Navbar.Collapse id="basic-navbar-nav" className="ps-3">
             <Nav className="m-auto fw-bold h5">
-              <Nav.Link as={Link} to="casinokiller/">
+              <Nav.Link as={Link} to="/">
                 Home
               </Nav.Link>
-              <Nav.Link as={Link} to="casinokiller/instructions">
+              <Nav.Link as={Link} to="/instructions">
                 Instructions
               </Nav.Link>
-              <Nav.Link as={Link} to="casinokiller/contact">
+              <Nav.Link as={Link} to="/contact">
                 Contact
               </Nav.Link>
-              <Nav.Link as={Link} to="casinokiller/privacy">
+              <Nav.Link as={Link} to="/privacy">
                 Privacy Policy
               </Nav.Link>
-              <Nav.Link as={Link} to="casinokiller/terms">
+              <Nav.Link as={Link} to="/terms">
                 Terms & Conditions
               </Nav.Link>
             </Nav>
