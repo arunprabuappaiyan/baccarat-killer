@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/casinokiller/static/css/main.aeabb815.css",
-    "main.js": "/casinokiller/static/js/main.3bc7aa4e.js",
+    "main.js": "/casinokiller/static/js/main.db63258a.js",
     "static/js/787.4e78dec8.chunk.js": "/casinokiller/static/js/787.4e78dec8.chunk.js",
     "static/media/Baccarat_killer.apk": "/casinokiller/static/media/Baccarat_killer.38116b8bc8c893cc53ab.apk",
     "static/media/product-img.jpg": "/casinokiller/static/media/product-img.03abd73e239edc74cf4f.jpg",
@@ -10,11 +10,11 @@
     "static/media/slide002.webp": "/casinokiller/static/media/slide002.aa7a4516dc97f9f856dc.webp",
     "index.html": "/casinokiller/index.html",
     "main.aeabb815.css.map": "/casinokiller/static/css/main.aeabb815.css.map",
-    "main.3bc7aa4e.js.map": "/casinokiller/static/js/main.3bc7aa4e.js.map",
+    "main.db63258a.js.map": "/casinokiller/static/js/main.db63258a.js.map",
     "787.4e78dec8.chunk.js.map": "/casinokiller/static/js/787.4e78dec8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeabb815.css",
-    "static/js/main.3bc7aa4e.js"
+    "static/js/main.db63258a.js"
   ]
 }

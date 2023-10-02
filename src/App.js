@@ -17,13 +17,16 @@ function App() {
         <FABComponent />
         <BrowserRouter>
           <Routes>
-            <Route path="casinokiller/" element={<Layout />}>
-              <Route index element={<Home />} />
-              <Route path="instructions" element={<Instructions />} />
-              <Route path="contact" element={<Contact />} />
-              <Route path="privacy" element={<Privacy />} />
-              <Route path="terms" element={<Terms />} />
-              <Route path="*" element={<NotFound />} />
+            <Route path="/" element={<Layout />}>
+              <Route path="casinokiller/" element={<Home />} />
+              <Route
+                path="casinokiller/instructions"
+                element={<Instructions />}
+              />
+              <Route path="casinokiller/contact" element={<Contact />} />
+              <Route path="casinokiller/privacy" element={<Privacy />} />
+              <Route path="casinokiller/terms" element={<Terms />} />
+              <Route path="casinokiller/*" element={<NotFound />} />
             </Route>
           </Routes>
         </BrowserRouter>
